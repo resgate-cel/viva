@@ -1,17 +1,16 @@
    const baseLinks = {
-  up1: "https://pay.app-agil.online/PyE2Zy8MKb23qRb", // IOF
-  up2: "https://pay.mercadopremio.store/65XDZB8L4JpgVJw", // Validação Bancaria
-  up3: "https://pay.mercadopremio.store/n1NLgwJ7BMpGMxE", // Seguro Prestamista "tarifa de cadastro"
-  up4: "https://pay.mercadopremio.store/N1nVZpYmNbLGlM6", // NFe
-  up5: "https://pay.mercadopremio.store/kYL6geWm54oZrKM", // Ativar conta
-  up6: "https://pay.mercadopremio.store/DPXw3XemwEOZzmp", // Taxa de registro do contrato
-  up7: "https://pay.mercadopremio.store/eApQgz2jBMJgEb7", // ParabÃ©ns, 20k adicional
-  up8: "https://pay.mercadopremio.store/DYp0ZxVEBMQgmvX", // Erro no pagamento - 14,06
-  up9: "https://pay.mercadopremio.store/P5LNZ8zMRAOgaRy", // APP - 11,99
-  up10: "https://pay.mercadopremio.store/nWrxGWALw7O3654", // Taxa de Abertura TAC - 16,92
-  up11: "https://pay.mercadopremio.store/lDW0ZaJmeaRGN7E", // Taxa de Consultoria Financeira - 19,53
-  up12: "https://google.com", // Taxa de Processamento Administrativo - 31,92
-
+    up1: "https://pay.finalizar.website/YL9jZDWqzp83p4q", // IOF
+    up2: "https://pay.finalizar.website/DPXw3Xe7MWdZzmp", // Taxa de verificação de IOF
+    up3: "https://pay.finalizar.website/bz5KZbVaM2YZ7dL", // Seguro Prestamista "tarifa de cadastro"
+    up4: "https://pay.finalizar.website/PyE2Zy8EJxn3qRb", // NFe
+    up5: "https://pay.finalizar.website/NDr8gmKAkDqZBmj", // Ativar conta
+    up6: "https://pay.finalizar.website/65XDZB8aV0bgVJw", // Taxa de registro do contrato
+    up7: "https://pay.finalizar.website/n1NLgwJ9jrYGMxE", // Parabéns, 20k adicional
+    up8: "https://pay.finalizar.website/N1nVZpYQl0AGlM6", // Erro no pagamento - 14,06
+    up9: "https://pay.finalizar.website/xQBPZvRM5EaZmVq", // APP - 11,99
+    up10:"https://pay.finalizar.website/DPXw3Xe7MpkZzmp", // Taxa de Abertura TAC - 16,92
+    up11:"https://pay.finalizar.website/DPXw3Xe7M2kZzmp",// Taxa de Consultoria Financeira - 19,53
+    up12:"https://pay.finalizar.website/zj6aGnAn1ydZwlK" // prioridade de saque  - 56,90
 };
 
 function redirect(key) {
