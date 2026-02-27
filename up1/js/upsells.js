@@ -1,6 +1,6 @@
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
-window.googlePixelId = "6830bd17ec4bfd6b107bae70";
+window.googlePixelId = "698bebad270ac0197289f1da";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
@@ -99,4 +99,5 @@ const upsellPaths = [
   }
   
   window.redirectToNextUpsell = redirectToNextUpsell;
+
   window.initUpsell = initUpsell;
